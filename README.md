@@ -4,7 +4,7 @@ I thank God for growth 🚀
 
 About:
 
-In this Code, as the name implies, I work out the path planning and control of the End Effector of a robot arm (2DOF).BTW this is written in Python. The results are below:
+In this Code, as the name implies, I worked out the control of the End Effector of a robot arm (2DOF) to trace out a Circle. BTW this is written in Python. The results are below:
 
 
 
